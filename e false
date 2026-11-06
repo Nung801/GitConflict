@@ -1,0 +1,88 @@
+[33mcommit 0580e7525f62f93084e7ed23dc44ab46ac8fd1af[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Brayden Tanneberger <btanneberger@nic.edu>
+Date:   Fri Nov 6 10:40:38 2026 -0800
+
+    oops
+
+[33mcommit b4ad43934e7fc490879921f4240ee4dc5fba0700[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 3ff8128 01643dc
+Author: Brayden Tanneberger <btanneberger@nic.edu>
+Date:   Fri Nov 6 10:37:21 2026 -0800
+
+    Merge branch 'main' of https://github.com/Nung801/GitConflict
+
+[33mcommit 3ff8128454d72e8072cbfd4cf88d721b1565c5e9[m
+Author: Brayden Tanneberger <btanneberger@nic.edu>
+Date:   Fri Nov 6 10:37:17 2026 -0800
+
+    call
+
+[33mcommit 01643dc530c343d7187a3f0cd2e5a6be2dd6e697[m
+Merge: 1f830cc 19913ff
+Author: Nung801 <btanneberger@nic.edu>
+Date:   Fri Nov 6 18:35:23 2026 +0000
+
+    Merge branch 'main' of https://github.com/Nung801/GitConflict
+
+[33mcommit 1f830cc4f1d6f034a9eea85b70a25c634a560fcc[m
+Author: Nung801 <btanneberger@nic.edu>
+Date:   Fri Nov 6 18:35:15 2026 +0000
+
+    space lmao
+
+[33mcommit 19913ff2c2e8dfd61dd4501e7e783fb7b7a89212[m
+Merge: 0b88c11 efaea17
+Author: Brayden Tanneberger <btanneberger@nic.edu>
+Date:   Fri Nov 6 10:31:58 2026 -0800
+
+    fixed problems
+
+[33mcommit 0b88c1113eef736f9e1c08d9ee4e1a63a24be76d[m
+Author: Brayden Tanneberger <btanneberger@nic.edu>
+Date:   Fri Nov 6 10:30:49 2026 -0800
+
+    added say
+
+[33mcommit efaea1793448c6c811d9a5dac7575513848692a2[m
+Author: Nung801 <btanneberger@nic.edu>
+Date:   Fri Nov 6 18:27:03 2026 +0000
+
+    merged again
+
+[33mcommit 7b0f0bf25d04285e50ca66765283870be55daf9e[m
+Merge: 0652d8a 3c6f9b4
+Author: Nung801 <btanneberger@nic.edu>
+Date:   Fri Nov 6 18:25:36 2026 +0000
+
+    Merge branch 'main' of https://github.com/Nung801/GitConflict
+
+[33mcommit 0652d8a0b8c3449018e1ce9ffbc8ccf5de7cca11[m
+Author: Nung801 <btanneberger@nic.edu>
+Date:   Fri Nov 6 18:25:06 2026 +0000
+
+    added add
+
+[33mcommit 3c6f9b407bb6ffc81fc9a8c92fc686b377f9d635[m
+Merge: af23155 f74f350
+Author: Brayden Tanneberger <btanneberger@nic.edu>
+Date:   Fri Nov 6 10:18:23 2026 -0800
+
+    merged changes
+
+[33mcommit af231557fe5b725cecd368e42d712f922b1162fa[m
+Author: Brayden Tanneberger <btanneberger@nic.edu>
+Date:   Fri Nov 6 10:15:44 2026 -0800
+
+    added main
+
+[33mcommit f74f350b50d77ce2b2f13aa725aea35bb31ad09d[m
+Author: Nung801 <btanneberger@nic.edu>
+Date:   Fri Nov 6 18:13:34 2026 +0000
+
+    added main
+
+[33mcommit a5fae2b1da5200a2c68627c42988456f8cbbf5f4[m
+Author: Nung801 <btanneberger@nic.edu>
+Date:   Fri Nov 6 10:08:21 2026 -0800
+
+    Initial commit
